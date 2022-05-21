@@ -1,0 +1,25 @@
+{
+  "name": "projetomodulo4",
+  "version": "1.0.0",
+  "description": "Projeto Modulo 4 Fullstack",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "npx tsc",
+    "build-and-run": "npm run build && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LHcouto/ProjetoModulo4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LHcouto/ProjetoModulo4/issues"
+  },
+  "homepage": "https://github.com/LHcouto/ProjetoModulo4#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
